@@ -4,6 +4,8 @@ new project
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
+# new project 
+
 
 Final project for the Building AI course
 
